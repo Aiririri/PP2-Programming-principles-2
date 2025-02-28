@@ -1,0 +1,19 @@
+{
+    "duplicate": true,
+    "branch": "Филиал ТОО EUROPHARMA Астана",
+    "BIN": "080841000761",
+    "cash_register": "300-189",
+    "cashier": "Аптека 17-1",
+    "sale": [
+      {"item": "Натрия хлорид 0,9%, 200 мл, фл", "quantity": 2, "price": 154.00, "total": 308.00},
+      {"item": "Борный спирт 3%, 20 мл, фл.", "quantity": 1, "price": 51.00, "total": 51.00},
+      {"item": "Шприц 2 мл, 3-х комп. (Bioject)", "quantity": 2, "price": 16.00, "total": 32.00},
+      {"item": "Система для инфузии Vogt Medical", "quantity": 2, "price": 60.00, "total": 120.00},
+      {"item": "Naturella прокладки Классик макси №8", "quantity": 1, "price": 310.00, "total": 310.00}
+    ],
+    "total": 18009.00,  
+    "timestamp": "18.04.2019 11:13:58",
+    "location": "г. Нур-Султан, Казахстан, Мангилик Ел, 19, нп-5"
+    
+  }
+  
